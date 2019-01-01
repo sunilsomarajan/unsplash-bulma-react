@@ -4,9 +4,9 @@
 
 Lives here : https://unsplash-react.firebaseapp.com/
 
-Assuming you have node package manager installed,
+Assuming you have npm installed,
 
-# Usage  
+### Usage  
 
 - clone the repo
 
@@ -15,3 +15,8 @@ Assuming you have node package manager installed,
 - npm install
 
 - npm start (localhost)
+
+### Screenshot
+
+![Screenshot](screenshot.png)
+
