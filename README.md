@@ -1,14 +1,17 @@
-# unsplash-bulma-react
-A simple unSplash image searcher using react.js and the Bulma CSS UI react component
+# unSplash-bulma-react
+
+### A simple unSplash image searcher using react.js and the Bulma CSS UI react component
 
 Lives here : https://unsplash-react.firebaseapp.com/
 
 Assuming you have node package manager installed,
 
-To use 
+# Usage  
 
-clone the repo
+- clone the repo
 
-npm install
+- Add the UNSPLASH API KEY in App.js
 
-npm start
+- npm install
+
+- npm start (localhost)
