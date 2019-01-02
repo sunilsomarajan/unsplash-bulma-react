@@ -10,7 +10,7 @@ Assuming you have npm installed,
 
 - clone the repo
 
-- Add the UNSPLASH API KEY in App.js
+- Add your UNSPLASH API KEY in App.js
 
 - npm install
 
