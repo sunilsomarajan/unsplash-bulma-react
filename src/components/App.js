@@ -83,6 +83,7 @@ class App extends React.Component {
       loading: false
     };
     this.handleChange = this.handleChange.bind(this);
+    this.handleSubmit = this.handleSubmit.bind(this);
   }
 
   componentDidMount() {
@@ -104,7 +105,10 @@ class App extends React.Component {
             loading: false
           });
         } else if (error.request) {
-          this.setState({ errorstring: error.request, loading: false });
+          this.setState({
+            errorstring: 'The request was made but no response was received',
+            loading: false
+          });
         }
       });
   };
