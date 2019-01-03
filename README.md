@@ -16,6 +16,8 @@ Assuming you have npm installed,
 
 - npm start (localhost)
 
+[Article on Medium](https://medium.com/@sunilsomarajan/a-simple-unsplash-photo-searcher-using-react-and-react-bulma-a539aa4fcb5b)
+
 ### Screenshot
 
 ![Screenshot](screenshot.png)
