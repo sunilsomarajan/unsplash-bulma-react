@@ -1,6 +1,6 @@
 # unSplash-bulma-react
 
-### A simple unSplash image searcher using react.js and the Bulma CSS UI react component
+### A simple unSplash image searcher using React.js and the Bulma CSS UI react component
 
 #### Sample Site : https://unsplash-react.firebaseapp.com/
 
