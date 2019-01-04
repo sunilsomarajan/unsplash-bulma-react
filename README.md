@@ -16,6 +16,8 @@ Assuming you have npm installed,
 
 - npm start (localhost)
 
+### Note that the app has been bootstrapped with create-react-app
+
 [Article on Medium](https://medium.com/@sunilsomarajan/a-simple-unsplash-photo-searcher-using-react-and-react-bulma-a539aa4fcb5b)
 
 ### Screenshot
